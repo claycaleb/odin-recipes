@@ -1,0 +1,64 @@
+body {
+    background-color: #333;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+h1 {
+    color: #FCFAF9;  
+    font-size: 48px;
+    font-weight: 1000;
+}
+
+h2,
+h3 {
+    color: #FCFAF9;    
+}
+
+.container {
+    width: 600px;
+    margin: 0 auto;
+    text-align: left;
+    color: #FCFAF9;
+}
+
+.menu {
+    padding: 0;
+    list-style-type: none;
+}
+
+.recipe {
+    padding: 5px 0;
+}
+
+.recipe a{
+    color: #FCFAF9;
+    font-size: 24px;
+    font-weight: 800;
+    text-decoration: none;
+}
+
+.recipe a:hover,
+.recipe a:visited:hover {
+    color: #F3D3BD;
+    text-decoration: underline;
+}
+
+.recipe a:visited {
+    color: #48E5C2;
+}
+
+.display-img {
+    width: 750px;
+    height: auto;
+}
+
+img {
+    padding: 10px 0;
+    width: 500px;
+    height: auto;
+}
+
+li {
+    padding: 5px 0;
+}
